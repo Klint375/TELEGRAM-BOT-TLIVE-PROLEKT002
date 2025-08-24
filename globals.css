@@ -1,0 +1,4 @@
+html,body { padding:0; margin:0; font-family: Inter, Arial, sans-serif; background:#f6f7fb; }
+.container { max-width:980px; margin:20px auto; padding:16px; }
+.card { background:#fff; border-radius:10px; padding:16px; box-shadow:0 8px 24px rgba(0,0,0,0.06); }
+.btn { padding:8px 12px; border-radius:8px; border:1px solid #ddd; cursor:pointer; background:#f7f7f7; }
